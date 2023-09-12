@@ -357,8 +357,4 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 
 See [CHANGELOG](CHANGELOG.md) for a history of changes and [UPGRADING](UPGRADING.md) for how to upgrade to more recent versions.
 
-## Copyright and License
 
-Copyright (c) 2015-2016, [Daniel Doubrovkine](https://twitter.com/dblockdotorg), [Artsy](https://www.artsy.net) and [Contributors](CHANGELOG.md).
-
-This project is licensed under the [MIT License](LICENSE.md).
